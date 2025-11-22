@@ -2,7 +2,7 @@
 
 class Program {
    static void Main(string[] args) {
-      Console.Write("Enter your name: ");
+      Console.Write("Your Last Name is: ");
       string name = Console.ReadLine();
       Console.WriteLine("Hello, " + name + "!");
    }
